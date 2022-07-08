@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/K-map_solver/static/css/main.073c9b0a.css",
+    "main.js": "/K-map_solver/static/js/main.b158dab5.js",
+    "index.html": "/K-map_solver/index.html",
+    "main.073c9b0a.css.map": "/K-map_solver/static/css/main.073c9b0a.css.map",
+    "main.b158dab5.js.map": "/K-map_solver/static/js/main.b158dab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b158dab5.js"
+  ]
+}
